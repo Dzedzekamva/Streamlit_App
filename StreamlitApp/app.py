@@ -5,7 +5,7 @@ import seaborn as sns
 import plotly.express as px
 
 # Loading cleaned dataset
-file_path = '/Streamlit_App/StreamlitApp/cleaned_data.csv'
+file_path = 'dzedzekamva/streamlit_app/main/StreamlitApp/cleaned_data.csv'
 df = pd.read_csv(file_path)
 
 # Title of the Streamlit app
